@@ -1,2 +1,3 @@
-# Project-1
-By IBM SkillsBuild
+# Konnichiwa
+
+This is my first GitHub Project!
